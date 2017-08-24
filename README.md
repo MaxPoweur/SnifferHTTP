@@ -1,4 +1,4 @@
 # SnifferHTTP
-Une variante du sniffer http, je l'ai debug et il est fonctionnel ;) ( vu que vous joignable nul part.. )
+Une variante du sniffer http, débugué et est fonctionnel :)
 
-Ne pas oublier d'ajouter dans le build path les imports
+P.S : Ne pas oublier d'ajouter dans le build path les imports !
